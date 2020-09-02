@@ -1,0 +1,14 @@
+
+#menu.toggled {
+  background-color: Black;
+}
+
+#menu > span.toggled { background-color: blue;}
+
+/* nav > a.navbar-brand {
+  font-size: 5vw;
+} */
+
+.card {
+  background-color: #f8f9fa;
+}
